@@ -20,6 +20,7 @@ MAIN-PROCEDURE.
     COMPUTE RESULT = NUM1 + NUM2 + NUM3.
  
     DISPLAY "The sum of the three numbers is: " RESULT.
+    DISPLAY "The sum of the three numbers is: " RESULT.
  
     STOP RUN.
  
